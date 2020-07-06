@@ -1,0 +1,2 @@
+# 2D-Fighter-Rocket-Game
+In this game there is a rocket moving in space from north to right. It strikes on foreign objects moving from right to north, avoids bullets and objects that correspond to it from objects by moving from top to bottom or vice versa, and has protection three times to complete, if it exceeds it, it will be defeated, the missile can hit and shoot bullets at The enemy, but he cannot hit the opposite shots, and he must avoid them.
